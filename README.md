@@ -13,12 +13,12 @@
 	* On your local machine using local R and RStudio installation, once you've cloned the repo locally
 	* On your local machine using Docker
 	* On [RStudio Cloud](https://rstudio.cloud)
-	* See details on running R assignments in Playground mode [here](https://github.com/DSApps-2021/Class_Slides/blob/master/Apps_of_DS_HW.pdf).
+	* See details on running R assignments in Playground mode [here](https://github.com/DSApps-2021/Class_Slides/blob/main/Apps_of_DS_HW.pdf).
 4. Run [`hw0_python.ipynb`](hw0_python.ipynb) Jupyter notebook. You can do it:
 	* On your local machine using local Python and Jupyter installation, once you've cloned the repo locally
 	* On your local machine using Docker
 	* On [Binder](https://mybinder.org/v2/gh/DSApps-2020/HW0/master?filepath=hw0_python.ipynb)
-	* See details on running Python assignments in Playground mode [here](https://github.com/DSApps-2021/Class_Slides/blob/master/Apps_of_DS_HW.pdf).
+	* See details on running Python assignments in Playground mode [here](https://github.com/DSApps-2021/Class_Slides/blob/main/Apps_of_DS_HW.pdf).
 5. You're done. :nail_care:
 
 ###### Giora Simchoni
