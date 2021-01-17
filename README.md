@@ -12,7 +12,7 @@
 3. Run [`hw0_r.Rmd`](hw0_r.Rmd) R Markdown document. You can do it:
 	* On your local machine using local R and RStudio installation, once you've cloned the repo locally
 	* On your local machine using Docker
-	* On [RStudio Cloud](https://rstudio.cloud)
+	* On [RStudio Cloud](https://rstudio.cloud/spaces/114909/project/2078698)
 	* See details on running R assignments in Playground mode [here](https://github.com/DSApps-2021/Class_Slides/blob/main/Apps_of_DS_HW.pdf).
 4. Run [`hw0_python.ipynb`](hw0_python.ipynb) Jupyter notebook. You can do it:
 	* On your local machine using local Python and Jupyter installation, once you've cloned the repo locally
