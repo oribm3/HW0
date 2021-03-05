@@ -1,1 +1,1 @@
-FROM jupyter/scipy-notebook:e531f5310d4f
+FROM jupyter/scipy-notebook:d990a62010ae
